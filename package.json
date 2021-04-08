@@ -1,0 +1,37 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caestrada/Complete-Intro-to-React-v6-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caestrada/Complete-Intro-to-React-v6-/issues"
+  },
+  "homepage": "https://github.com/caestrada/Complete-Intro-to-React-v6-#readme",
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/preset-react": "^7.13.13",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "parcel": "^2.0.0-beta.2",
+    "prettier": "^2.2.1"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "browserslist": [
+    "last 2 Chrome versions"
+  ]
+}
