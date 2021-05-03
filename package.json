@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/caestrada/Complete-Intro-to-React-v6-#readme",
   "devDependencies": {
-    "@babel/core": "^7.13.14",
+    "@babel/core": "^7.14.0",
     "@babel/preset-react": "^7.13.13",
     "eslint": "^7.23.0",
     "eslint-config-prettier": "^8.1.0",
